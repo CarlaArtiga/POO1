@@ -9,5 +9,9 @@ package guia1poo1;
  * @author LENOVO
  */
 public class SumaEnterosPositivos {
+    public static void main(String[] args) {
+        
     
+    
+    }
 }
