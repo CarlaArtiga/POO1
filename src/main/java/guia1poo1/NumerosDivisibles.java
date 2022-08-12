@@ -34,6 +34,9 @@ public class NumerosDivisibles {
            System.out.println(numero1 + " y " + numero2 + " son divisibles ");
            
        }
+       else{
+           System.out.println(numero1 + " y " + numero2 + " no son divisibles ");
+       }
        System.exit(0);
         
         
